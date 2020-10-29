@@ -1,0 +1,17 @@
+.NET Standard
+.NET 实现
+.NET 5
+.NET Framework
+Mono
+通用 Windows 平台 (UWP)
+.NET 运行时
+.NET 工具和常见基础结构
+最新标准
+以下官方 Ecma 文档可用于 C# 和 CLI (TR-84)：
+C# 语言标准（版本 5.0） ： ECMA-334.pdf
+公共语言基础结构 ：提供 pdf 和 zip 形式。
+派生自分区 IV XML 文件的信息 ：提供 pdf 和 zip 格式。
+官方 ISO/IEC 文档可从 ISO/IEC 公开标准页获取。 以下链接可从该页面直接获得：
+信息技术 - 编程语言 - C# ： ISO/IEC 23270:2018
+信息技术 - 公共语言基础结构 (CLI) 分区 I 到 VI ： ISO/IEC 23271:2012
+信息技术 - 公共语言基础结构 (CLI) - 有关派生自分区 IV XML 文件的信息的技术报告 ： ISO/IEC TR 23272:2011
